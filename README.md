@@ -1,7 +1,8 @@
 # CNC-2D-cutting-machine-Control
 
-Code developed for "A. Marino, - simulation of a 2D cutting machine in Matlab/simulink ".  
+Code developed for "A. Marino, - simulation of a 2D cutting machine in Matlab/Simulink ".  
 Master's student "Calabria University".  
+For any questions or suggestions write to alexismarino0109@gmail.com
 
 # Sumary.
 This repository contains a simulation of a 2D cutting machine, it uses 2 DC motors controlled by a PID control. This project aims to simulate in MATLAB-Simulink the cut of three pieces a triangle, a semicircle, and a circle from a rectangular slab (3m long and 2m high). The size, placement, and orientation of the figures are arbitrary. The rest position of the machine is in the upper right corner of the plate and the reference generator is governed by a "Stateflow". 
