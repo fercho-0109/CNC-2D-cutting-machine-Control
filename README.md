@@ -21,7 +21,7 @@ The repository contains three files
 3. **Report**: This contains the explanation of the complete process, the mathematical formulations, and the control configuration.
 
 
-# Example to run an experiment  
+# Example to run the experiment  
 **"CNC cutting machine"**
 ### Matlab/Simulink simulation 
 1. Download the files. 
