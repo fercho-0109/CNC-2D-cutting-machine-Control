@@ -27,8 +27,9 @@ The repository contains three files
 1. Download the files. 
 2. Run the Matlab file "**MAIN**".
 3. Open and run the Simulink file "**CD_MOTORControl2**"
-4. The XY Graph block should start to show the results 
-![image](https://github.com/fercho-0109/RHC-Tracking-Trajectory-with-Obstacle-Avoidance/assets/40362695/9da97de6-8f37-4604-bd6f-a36ef1451159)
+4. The XY Graph block should start to show the results  
+![image](https://github.com/fercho-0109/CNC-2D-cutting-machine-Control/assets/40362695/fdf0f90a-b552-409e-ade6-690a95bdbeeb)
+
 
 
 
